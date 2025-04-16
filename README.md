@@ -1,4 +1,4 @@
-# No name project
+# League-Management
 
 ## How to run
 1. install nodejs
